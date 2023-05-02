@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semaphore 3.4.3", "Semaphor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserSurvey", "UserSurvey\UserSurvey.csproj", "{9BEBB0E7-EB64-4B40-9C59-ABC8846B2017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color", "Color\Color.csproj", "{BCB13281-94EC-494E-B716-B98FF7000EE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Color", "Color\Color.csproj", "{BCB13281-94EC-494E-B716-B98FF7000EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рекурсивные функции 5.5.3", "Рекурсивные функции 5.5.3\Рекурсивные функции 5.5.3.csproj", "{3D883E45-DF84-46F3-A19B-CBC3DD8A3399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BCB13281-94EC-494E-B716-B98FF7000EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB13281-94EC-494E-B716-B98FF7000EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB13281-94EC-494E-B716-B98FF7000EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D883E45-DF84-46F3-A19B-CBC3DD8A3399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D883E45-DF84-46F3-A19B-CBC3DD8A3399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D883E45-DF84-46F3-A19B-CBC3DD8A3399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D883E45-DF84-46F3-A19B-CBC3DD8A3399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
